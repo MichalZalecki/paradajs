@@ -1,5 +1,7 @@
 # Parada.js
 
+[![Build Status](https://travis-ci.org/MichalZalecki/paradajs.svg?branch=master)](https://travis-ci.org/MichalZalecki/paradajs)
+
 Monads implementation targeting compliance with [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land#monad).
 
 Much more liberal approach to types makes this implementation much easier to use in real world JS/TS projects than its more idiomatic [predecessor](https://github.com/MichalZalecki/monadsjs).
