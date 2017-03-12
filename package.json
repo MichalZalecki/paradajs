@@ -16,5 +16,21 @@
   },
   "dependencies": {
     "deep-equal": "^1.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalZalecki/paradajs.git"
+  },
+  "keywords": [
+    "monads",
+    "fantasy-land",
+    "functional-programming"
+  ],
+  "bugs": {
+    "url": "https://github.com/MichalZalecki/paradajs/issues"
+  },
+  "homepage": "https://github.com/MichalZalecki/paradajs#readme"
 }
