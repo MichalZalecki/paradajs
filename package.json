@@ -1,0 +1,20 @@
+{
+  "name": "monadsjs2",
+  "version": "0.0.1",
+  "description": "Monads implementation targeting compliance with Fantasy Land",
+  "main": "lib/monads.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "Michal Zalecki <michal@michalzalecki.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^19.2.1",
+    "jest": "^19.0.2",
+    "typescript": "^2.2.1"
+  },
+  "dependencies": {
+    "deep-equal": "^1.0.1"
+  }
+}
