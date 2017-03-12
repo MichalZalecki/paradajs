@@ -1,5 +1,5 @@
 {
-  "name": "monadsjs2",
+  "name": "paradajs",
   "version": "0.0.1",
   "description": "Monads implementation targeting compliance with Fantasy Land",
   "main": "lib/monads.js",

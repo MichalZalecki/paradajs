@@ -1,4 +1,4 @@
-# monadsjs2
+# Parada.js
 
 Monads implementation targeting compliance with [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land#monad).
 
@@ -7,7 +7,7 @@ Much more liberal approach to types makes this implementation much easier to use
 ## Instalation
 
 ```
-npm install monadsjs2
+npm install paradajs
 ```
 
 ## Monads
