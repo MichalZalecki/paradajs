@@ -14,11 +14,9 @@ npm install paradajs
 
 * `Identity`
 * `CoIdentity`
-* `Either` of type `Left` or `Right`
-* `Maybe` of type `Just` or `Nothing`
-* `IO`
-* `List`
-
-## Examples
+* `Either` of type `Left` or `Right` ([live example](https://www.webpackbin.com/bins/-Kf1HimzVy2_-uxmK2rS))
+* `Maybe` of type `Just` or `Nothing` ([live example](https://www.webpackbin.com/bins/-Kf1KXQh89LH6eWqz5z9))
+* `IO` ([live example](https://www.webpackbin.com/bins/-Kf1IJitZHM9GbvdkafH))
+* `List` ([live example](https://www.webpackbin.com/bins/-Kf1KtUNSk5yv0cvGTCa))
 
 See `src/test` to learn more about each monad.
